@@ -21,7 +21,7 @@ A Model Context Protocol (MCP) server for Twitter API with posting, searching, a
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/aali-1/twitter-mcp-server.git
 cd twitter-mcp-server
 ```
 
@@ -100,7 +100,7 @@ Post a new tweet with optional reply functionality.
 }
 ```
 
-### search_tweets
+### search_tweets (Requires Basic/Pro plan)
 
 Search for tweets using a query string.
 
